@@ -1,4 +1,4 @@
-#  Farm-to-Consumer Digital Platform
+#  Farm-to-Consumer Digital Platform:
 
 A full-stack digital marketplace that directly connects local farmers with consumers, allowing farmers to upload and showcase fresh produce and enabling consumers to browse and contact them directly for purchases — eliminating middlemen.
 
@@ -25,6 +25,4 @@ A full-stack digital marketplace that directly connects local farmers with consu
 | CSS (custom styles)   | REST API + Multer       | Mongoose (ODM)     |
 
 ---
-
-## 🗂 Folder Structure
 
