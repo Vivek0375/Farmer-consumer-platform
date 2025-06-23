@@ -24,5 +24,4 @@ A full-stack digital marketplace that directly connects local farmers with consu
 | React.js              | Node.js + Express       | MongoDB Atlas      |
 | CSS (custom styles)   | REST API + Multer       | Mongoose (ODM)     |
 
----
 
